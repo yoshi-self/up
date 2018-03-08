@@ -10,6 +10,7 @@ alias up="source path/to/up.sh"
 NOTE: cd doesn't work in current shell unless execute by source command
 
 ## Usage
+Assuming you made alias "up"
 ```
 up [option]
 ```
