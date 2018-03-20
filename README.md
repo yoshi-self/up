@@ -7,7 +7,7 @@ Add alias of source command in your .bashrc like following
 ```
 alias up="source /absolute/path/to/up.sh"
 ```
-NOTE: cd doesn't work in current shell unless execute by source command
+NOTE: cd doesn't work in current shell unless executed by source command
 
 ## Usage
 Assuming you made alias "up" like above
